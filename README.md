@@ -1,3 +1,4 @@
 # github-demo
 this is my first repository
-author - Shubham Bharti
+author - Shubham (humara college)
+
